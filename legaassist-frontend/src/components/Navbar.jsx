@@ -10,7 +10,7 @@ export default function Navbar({ usuario, rolActual, setRolActual, onLogout }) {
       
       {/* Logo y marca */}
       <div className="flex items-center space-x-2">
-        <span className="text-2xl font-bold text-blue-400">LegaAssist</span>
+        <span className="text-2xl font-bold text-blue-400">Del derecho al campo</span>
         <span className="text-xs bg-blue-900 text-blue-200 px-2 py-1 rounded-full font-mono">MVP</span>
       </div>
 
